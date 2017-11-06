@@ -1,0 +1,27 @@
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\bin\Debug\Program3_9.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\bin\Debug\Program3_9.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\Program3_9.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\Program3_9.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\Program3_9.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_9\obj\x86\Debug\Program3_9.pdb
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\bin\Debug\Program3_9.exe
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\bin\Debug\Program3_9.pdb
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csprojResolveAssemblyReference.cache
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.frmCookieCalories.resources
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.Properties.Resources.resources
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csproj.GenerateResource.Cache
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csproj.CoreCompileInputs.cache
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.exe
+C:\Users\docke\Desktop\Teacher\Course Materials\C#\Instructor Files\Completed Programming Challenges by Chapter\chapter03\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.pdb
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\bin\Debug\Program3_9.exe
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\bin\Debug\Program3_9.pdb
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csprojResolveAssemblyReference.cache
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.frmCookieCalories.resources
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.Properties.Resources.resources
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csproj.GenerateResource.Cache
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.csproj.CoreCompileInputs.cache
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.exe
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc_3-9_cookie_calories\Program3_9\obj\x86\Debug\Program3_9.pdb

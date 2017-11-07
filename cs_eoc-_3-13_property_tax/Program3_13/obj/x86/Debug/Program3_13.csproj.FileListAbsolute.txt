@@ -1,0 +1,35 @@
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\bin\Debug\Program3_13.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\bin\Debug\Program3_13.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\Program3_13.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\Program3_13.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\Program3_13.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Debug\Program3_13.pdb
+C:\csharp\chapter03\Program3_13\Program3_13\bin\Debug\Program3_13.exe
+C:\csharp\chapter03\Program3_13\Program3_13\bin\Debug\Program3_13.pdb
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\Program3_13.Form1.resources
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\Program3_13.Properties.Resources.resources
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\Program3_13.exe
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Debug\Program3_13.pdb
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\bin\Debug\Program3_13.exe
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\bin\Debug\Program3_13.pdb
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.frmPropertyTax.resources
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.Properties.Resources.resources
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.csproj.GenerateResource.Cache
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.csproj.CoreCompileInputs.cache
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.exe
+S:\Repository\dock-cs-ch3-eoc-problems-JacobJBallor\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.pdb
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\bin\Debug\Program3_13.exe
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\bin\Debug\Program3_13.pdb
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.csprojResolveAssemblyReference.cache
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.frmPropertyTax.resources
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.Properties.Resources.resources
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.csproj.GenerateResource.Cache
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.csproj.CoreCompileInputs.cache
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.exe
+S:\Repository\Repository\cs_eoc-_3-13_property_tax\Program3_13\obj\x86\Debug\Program3_13.pdb

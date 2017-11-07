@@ -1,0 +1,13 @@
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\bin\Release\Program3_13.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\bin\Release\Program3_13.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\Program3_13.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\Program3_13.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\Program3_13.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program3_13\obj\x86\Release\Program3_13.pdb
+C:\ttt\csharp\Program3_13\Program3_13\obj\x86\Release\Program3_13.exe
+C:\ttt\csharp\Program3_13\Program3_13\obj\x86\Release\Program3_13.pdb
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Release\Program3_13.exe
+C:\csharp\chapter03\Program3_13\Program3_13\obj\x86\Release\Program3_13.pdb

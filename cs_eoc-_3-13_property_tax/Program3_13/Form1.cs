@@ -30,7 +30,8 @@ namespace Program3_13
             homeValue = double.Parse(txtPropertyValue.Text);
             salesTax = homeValue / propertyTax;
             lblOutput.Text = salesTax.ToString();
-
+// In the future, set up a constant for your .64. Other than that, looks good. 
+-0
         }
     }
 }

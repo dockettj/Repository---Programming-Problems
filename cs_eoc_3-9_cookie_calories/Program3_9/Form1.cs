@@ -28,6 +28,10 @@ namespace Program3_9
             
             //What happens when the user clicks on the "Calculate" button?
             //Your output should read something like "Total calories consumed is (Number)."
+            
+            // Output not a sentence. -2
+            // Calories should be a constant for future reference.
+            
         }
     }
 }

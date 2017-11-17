@@ -73,5 +73,8 @@ namespace WindowsFormsApplication1
             lf = txtLastName.Text + ", " + txtFirstName.Text;
             lblNameOutput.Text = lf;
         }
+        // Love the comments
+        // You should probably use string names that make sense to the next person working on your code, though.
+        // -0
     }
 }
